@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/trade24seven-resena-",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a trade24seven-resena-",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/trade24seven-resena-.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://destacados.org/trade24seven-resena-inversion/"
+    },
+    "homepage": "https://destacados.org/trade24seven-resena-inversion/"
+}
